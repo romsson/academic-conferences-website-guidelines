@@ -38,3 +38,7 @@ Misc notes:
 Examples
 
 * Use [this webpage](http://vizsec.org/#venue) as a template. This has all the ingredients of a perfect conference website. Every single bit of it.
+
+Useful links
+
+* [This is a motherfucking website.](http://motherfuckingwebsite.com/)
